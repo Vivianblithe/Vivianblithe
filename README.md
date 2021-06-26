@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here's my resume: 
-And my portfolio:
+My resume and samples of my work are available in this repository.
 
