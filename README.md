@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My resume and samples of my work are available in the Vivianblithe repository.
+My resume and samples of my work are available in this Vivianblithe repository.
 
