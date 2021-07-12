@@ -7,6 +7,7 @@ I create content that that smooths the way for users. I distill technical comple
 
 ## Experience
 Senior Technical Writer, Genesys Cloud Services, Inc.  (2005- present)
+
 Created deployment guides, user manuals, help files, integration guides, and videos for a wide range of software types including:
 * Traditional servers, UIs, and databases deployed in a customer environment
 * Cloud-based services on running on AWS and Azure or deployed in Docker containers and managed using Kubernetes
