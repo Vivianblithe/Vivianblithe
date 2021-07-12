@@ -1,12 +1,11 @@
 # Vivian Hood
-650-283-2602    *   vivianaclair@yahoo.com   *     
-https://www.linkedin.com/in/vivian-hood-2aa592168/
+650-283-2602    *   vivianaclair@yahoo.com   *   https://www.linkedin.com/in/vivian-hood-2aa592168/
 
 ## Profile
 I create content that that smooths the way for users. I distill technical complexities into clear, accessible documentation, presented in whatever modality suits your needs, whether that is text, graphics, diagrams, videos, or API references and developer guides.
 
 ## Experience
-Senior Technical Writer, Genesys Cloud Services, Inc.  (2005- present)
+**Senior Technical Writer, Genesys Cloud Services, Inc.  (2005- present)**
 
 Created deployment guides, user manuals, help files, integration guides, and videos for a wide range of software types including:
 * Traditional servers, UIs, and databases deployed in a customer environment
