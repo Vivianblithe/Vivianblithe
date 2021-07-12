@@ -1,10 +1,10 @@
 # Vivian Hood - Portfolio
 
-**Note:** The documents linked here are all my own work as the sole writer for a new product.
-
 ### Documentation for hybrid deployments of Genesys Predictive Routing
 
 In a hybrid deployment model, some functionality is accessed through the Genesys Multicloud CX cloud (formerly Genesys PureEngage Cloud) and the remaining components are deployed in the customer environment).
+
+**Note:** The documents linked here are all my own work as the sole writer for a new product.
 
 I have uploaded copies of the following documentation:
 
@@ -15,6 +15,8 @@ I have uploaded copies of the following documentation:
 ### Genesys predictive routing articles in the Genesys Cloud CX Resource Center
 
 This documentation set is for the version of predictive routing released for Genesys Cloud. The UI and functionality differs considerably from the Multicloud/hybrid version documented in the manuals above.
+
+**Note:** The documents linked here are all my own work as the sole writer for a new product.
 
 * [About predictive routing](https://help.mypurecloud.com/?p=236014)
 * [Predictive routing overview](https://help.mypurecloud.com/?p=236144)
