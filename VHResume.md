@@ -5,7 +5,8 @@
 I create content that that smooths the way for users. I distill technical complexities into clear, accessible documentation, presented in whatever modality suits your needs, whether that is text, graphics, diagrams, videos, or API references and developer guides.
 
 ## Experience
-**Senior Technical Writer, Genesys Cloud Services, Inc.  (2005- present)**
+**Senior Technical Writer, Genesys Cloud Services, Inc.  (2005 - present)**
+**Technical Writer, Genesys Cloud Services, Inc. (2000 - 2005)**
 
 Created deployment guides, user manuals, help files, integration guides, and videos for a wide range of software types including:
 * Traditional servers, UIs, and databases deployed in a customer environment
