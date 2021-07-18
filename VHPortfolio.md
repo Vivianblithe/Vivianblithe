@@ -30,7 +30,7 @@ This documentation set is for the version of predictive routing released for Gen
 
 ### Blueprints documentation
 
-Blueprints are technical articles explaining how to solve a specific use case, usually integrating Genesys functionality with third-party applications. SMEs, usually developers, create them, then a technical writer performs a substantiative technical edit. This edit includes testing for missing or unclear procedures, revising it for documentation standards, clarity, and grammar, and reworking the diagram to comply with Genesys graphics standards. The following blueprints are ones for which I have been the technical writer:
+Blueprints are technical articles explaining how to solve a specific use case, usually integrating Genesys functionality with third-party applications. Subject matter experts - usually developers - create them, then a technical writer performs a substantiative technical edit. This edit includes testing for missing or unclear procedures, revising it for documentation standards, clarity, and grammar, and reworking the diagram to comply with Genesys graphics standards. The following blueprints are ones for which I have been the technical writer:
 
 * [Automate callbacks using always-running campaigns and data actions](https://developer.genesys.cloud/blueprints/automated-callback-blueprint/)
 * [Deploy the Lex-Kendra chatbot on Genesys Cloud](https://developer.genesys.cloud/blueprints/aws-lex-kendra/)
