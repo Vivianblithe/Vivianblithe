@@ -11,6 +11,7 @@ I have uploaded copies of the following documentation:
 * [Genesys Predictive Routing Deployment and Operations Guide](https://all.docs.genesys.com/PE-GPR/9.0.0/Deployment)
 * [Genesys Predictive Routing Staff Help](https://github.com/Vivianblithe/Vivianblithe) (accessible from my personal GitHub repository)
 * [Genesys Predictive Routing Help](https://all.docs.genesys.com/PE-GPR/9.0.0/Help) (for customers)
+* [Genesys Predictive Routing Overview](https://player.vimeo.com/video/312195823?title=0&byline=0&portrait=0) (I did the script and the static graphics; the graphics team did the animations and voiceover)
 
 ### Genesys predictive routing articles in the Genesys Cloud CX Resource Center
 
