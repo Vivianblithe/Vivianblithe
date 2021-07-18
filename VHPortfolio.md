@@ -8,7 +8,7 @@ In a hybrid deployment model, some functionality is accessed through the Genesys
 
 I have uploaded copies of the following documentation:
 
-* [Genesys Predictive Routing Deployment and Operations Guide](https://all.docs.genesys.com/PE-GPR/Staff/Help)
+* [Genesys Predictive Routing Deployment and Operations Guide](https://all.docs.genesys.com/PE-GPR/9.0.0/Deployment)
 * [Genesys Predictive Routing Staff Help](https://github.com/Vivianblithe/Vivianblithe) (accessible from my personal GitHub repository)
 * [Genesys Predictive Routing Help](https://all.docs.genesys.com/PE-GPR/9.0.0/Help) (for customers)
 
