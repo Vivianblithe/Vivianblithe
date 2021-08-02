@@ -20,15 +20,19 @@ Created deployment guides, user manuals, help files, integration guides, and vid
 * Experienced in documenting on a wiki-based documentation platform
 
 ## Achievements
-Created and continue to build the documentation set for a new high-profile product, consisting of two Help files for hybrid deployments (one for customers one for internal users), a Deployment and Operations Guide for hybrid deployments, and a set of user documentation for a cloud-only version of the product with a different user interface, workflow, and functionality. This documentation has received numerous accolades from users.
+**Superior Writing Delivered Right** - Created the highly-regarded documentation set for a new high-profile product, consisting of two Help files for hybrid deployments (one for customers, one for internal users), a Deployment and Operations Guide for hybrid deployments, and a separate set of user documentation on a different documentation platform for a cloud-only version of the product with its own user interface, workflow, and functionality. 
 
-Mentored junior writers to improve their writing skills and, crucially, to reinforce the need for a customer-centric focus in all writing projects.
+**Project Management** - Frequently functioned as sole writer on assigned projects. Set and adjusted schedules for documentation deliverables in coordination with cross-functional team deadlines and requirements.
 
-Liaised effectively with Professional Services and Customer Care to improve documentation quality, resulting in fewer customer contacts and less time required for troubleshooting.
+**Information Architecture** - Planned and executed development of the documentation sets required for a new high-profile project delivered on three documentation platforms for three deployment modalities having different use cases, deployment requirements, and user interfaces.
 
-Performed in-depth technical editing of developer documentation, taking loosely-sketched or preliminary drafts from developers and revising for completeness, clarity, and correctness, as well as polishing the structure and style. This project includes collaboration with developers and professional services colleagues who do not normally work directly with a technical writer.
+**Mentoring** - Mentored junior writers to improve their writing skills and, crucially, to reinforce the need for a customer-centric focus in all writing projects.
 
-Brought together subject matter expects to review expert-level integration documentation which resulted in a fruitful collaboration and an innovative new solution for a use case critical to important customers.
+**Solving Issues Before they Happen** - Liaised effectively with Professional Services and Customer Care to improve documentation quality, resulting in fewer customer contacts and less time required for troubleshooting. 
+
+**Technical Editing** - Performed in-depth technical editing of developer documentation, taking loosely-sketched or preliminary drafts from developers and revising for completeness, clarity, and correctness, as well as polishing the structure and style. This project includes collaboration with developers and professional services colleagues who do not normally work directly with a technical writer.
+
+**Collaboration** - Enabled synergies between subject matter experts to improve expert-level integration documentation based on customer needs. This collaboration resulted in a fruitful conversation and an innovative new solution for a use case critical to several important customers. 
 
 ## Technologies and Tools
 Wiki markup	*  Markdown	*  GitHub	*  SourceTree	 *  HTML/CSS * REST API documentation - Swagger, OpenAPI-compliant REST documentation	*  Postman  * Jira  *	Atom  *	Jenkins  *	Bitbucket  *	FrameMaker  *  Aha	  *  Lucidchart  *  	Camtasia/Snagit	*  WordPress	*  RoboHelp
